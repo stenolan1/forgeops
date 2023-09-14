@@ -9,7 +9,7 @@
 # or with one of its affiliates. All use shall be exclusively subject
 # to such license between the licensee and ForgeRock AS.
 
-# set -x 
+set -x 
 
 
 source /opt/opendj/env.sh
