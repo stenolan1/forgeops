@@ -2,7 +2,7 @@
 #
 # Copyright (c) 2016-2017 ForgeRock AS. All rights reserved.
 #
-set -e
+set -x
 
 # If a command arg is not passed, default to import
 ACTION="${1:-import}"
